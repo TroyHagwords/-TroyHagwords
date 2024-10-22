@@ -1,1 +1,1 @@
-![alt text](https://github.com/TroyHagwords/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/TroyHagwords/main/blob/assest/github.png?raw=true)
